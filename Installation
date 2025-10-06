@@ -1,0 +1,3 @@
+git clone https://github.com/yourusername/mscp-protocol.git
+cd mscp-protocol
+pip install -r requirements.txt
