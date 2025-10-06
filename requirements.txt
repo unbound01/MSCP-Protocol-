@@ -1,0 +1,5 @@
+Python 3.8+
+Qiskit ≥ 0.45.0
+NumPy
+Matplotlib
+Scikit-learn
